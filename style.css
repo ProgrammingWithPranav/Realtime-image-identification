@@ -1,0 +1,25 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#heading {
+    width: 99%;
+    border-radius: 25px;
+    border: 1px solid;
+    box-shadow: 5px 10px green;
+}
+
+.orangeBtn {
+    width: 150px;
+    border-radius: 10px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
