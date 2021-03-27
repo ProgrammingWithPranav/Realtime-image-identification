@@ -6,12 +6,17 @@ body{
     width: 99%;
     border-radius: 25px;
     border: 1px solid;
-    box-shadow: 5px 10px green;
+    box-shadow: 5px 10px 50px gray;
 }
 
 .orangeBtn {
     width: 150px;
     border-radius: 10px;
+    box-shadow: 5px 10px 50px gray;
+}
+
+.giveShadow{
+    box-shadow: 5px 10px 50px gray;
 }
 
 #footer {
@@ -22,4 +27,10 @@ body{
     width: 100%;
     background-color: gray;
     text-align: center;
+}
+
+canvas {
+    border: 10px solid;
+    border-style: dashed;
+    box-shadow: 5px 10px 50px orange;
 }
